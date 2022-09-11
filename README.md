@@ -1,8 +1,8 @@
-# computer_vision_reto
-# Created by; Eva Denisse Vargas Sosa 
-# For: Quantum Robotics
-# Place: Mexico City
-# Day: Sept 11, 2022 
+# Computer_vision_reto
+Created by; Eva Denisse Vargas Sosa 
+For: Quantum Robotics
+Place: Mexico City
+Day: Sept 11, 2022 
 
 
 Use of dictionary to store position and coords
@@ -25,3 +25,4 @@ Proccess:
  The functionality depends on the enviroment and light. 
  It identify objects although the surface have a lot of white. 
  
+![Captura de pantalla de 2022-09-11 13-28-37](https://user-images.githubusercontent.com/107895743/189543325-5683b4a1-3ef9-4523-b342-5292a762e079.png)
