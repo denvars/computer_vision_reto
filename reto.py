@@ -1,4 +1,7 @@
-
+##
+# Created by: Eva Denisse Vargas Sosa 
+# Date: Sept 11, 2022 
+##
 import cv2 as c 
 import numpy as np
 
