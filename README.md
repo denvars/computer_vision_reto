@@ -4,8 +4,6 @@ For: Quantum Robotics
 Place: Mexico City
 Day: Sept 11, 2022 
 
-
-Use of dictionary to store position and coords
 The code works with: 
   1. Camera
   2. OpenCv, numpy
