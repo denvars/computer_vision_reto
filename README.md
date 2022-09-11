@@ -1,2 +1,1 @@
 # computer_vision_reto
-computer_vision_reto
